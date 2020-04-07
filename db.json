@@ -1,0 +1,104 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "flightName": "MAA",
+      "flightNo": "SQ 111",
+      "parringFlight": "TKY",
+      "paringFlightNo": "SQ 457",
+      "paringNo": "2V-AAA",
+      "flightC": "225",
+      "isChecked": true
+    },
+    {
+      "id": "2",
+      "flightName": "BLR",
+      "flightNo": "SQ 180",
+      "parringFlight": "QLA",
+      "paringFlightNo": "SQ 427",
+      "paringNo": "2V-SVC",
+      "flightC": "627",
+      "isChecked": true
+    },
+    {
+      "id": "3",
+      "flightName": "DEL",
+      "flightNo": "SQ 315",
+      "parringFlight": "MEL",
+      "paringFlightNo": "SQ 741",
+      "paringNo": "2V-DRF",
+      "flightC": "199",
+      "isChecked": true
+    },
+    {
+      "id": "4",
+      "flightName": "NGR",
+      "flightNo": "SQ 123",
+      "parringFlight": "LHR",
+      "paringFlightNo": "SQ 676",
+      "paringNo": "2V-HJH",
+      "flightC": "087",
+      "isChecked": true
+    },
+    {
+      "id": "5",
+      "flightName": "QPR",
+      "flightNo": "SQ 676",
+      "parringFlight": "NYC",
+      "paringFlightNo": "SQ 560",
+      "paringNo": "2V-KJG",
+      "flightC": "675",
+      "isChecked": true
+    },
+    {
+      "id": "6",
+      "flightName": "WTC",
+      "flightNo": "SQ 355",
+      "parringFlight": "MAA",
+      "paringFlightNo": "SQ 888",
+      "paringNo": "2V-JJU",
+      "flightC": "345",
+      "isChecked": true
+    },
+    {
+      "id": "7",
+      "flightName": "NYC",
+      "flightNo": "SQ 788",
+      "parringFlight": "BOM",
+      "paringFlightNo": "SQ 233",
+      "paringNo": "2V-UII",
+      "flightC": "887",
+      "isChecked": true
+    },
+    {
+      "id": "8",
+      "flightName": "KOL",
+      "flightNo": "SQ 454",
+      "parringFlight": "SYD",
+      "paringFlightNo": "SQ 099",
+      "paringNo": "2V-YUJ",
+      "flightC": "454",
+      "isChecked": true
+    },
+    {
+      "id": "9",
+      "flightName": "LON",
+      "flightNo": "SQ 3T4",
+      "parringFlight": "BOM",
+      "paringFlightNo": "SQ 788",
+      "paringNo": "2V-AJK",
+      "flightC": "566",
+      "isChecked": true
+    },
+    {
+      "id": "10",
+      "flightName": "MAL",
+      "flightNo": "SQ 637",
+      "parringFlight": "MAA",
+      "paringFlightNo": "SQ 233",
+      "paringNo": "2V-AAA",
+      "flightC": "943",
+      "isChecked": true
+    }
+  ]
+}
