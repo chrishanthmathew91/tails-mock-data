@@ -8,7 +8,7 @@
       "paringFlightNo": "SQ 457",
       "paringNo": "2V-AAA",
       "flightC": "225",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "paringFlightNo": "SQ 427",
       "paringNo": "2V-SVC",
       "flightC": "627",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "3",
@@ -38,7 +38,7 @@
       "paringFlightNo": "SQ 676",
       "paringNo": "2V-HJH",
       "flightC": "087",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "paringFlightNo": "SQ 560",
       "paringNo": "2V-KJG",
       "flightC": "675",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "paringFlightNo": "SQ 888",
       "paringNo": "2V-JJU",
       "flightC": "345",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "paringFlightNo": "SQ 233",
       "paringNo": "2V-UII",
       "flightC": "887",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "paringFlightNo": "SQ 099",
       "paringNo": "2V-YUJ",
       "flightC": "454",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "paringFlightNo": "SQ 788",
       "paringNo": "2V-AJK",
       "flightC": "566",
-      "isChecked": true
+      "isChecked": false
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "paringFlightNo": "SQ 233",
       "paringNo": "2V-AAA",
       "flightC": "943",
-      "isChecked": true
+      "isChecked": false
     }
   ]
 }
